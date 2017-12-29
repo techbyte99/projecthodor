@@ -33,7 +33,7 @@ a {
 
 a:hover,
 a:focus {
-    color: #eb3812;
+    color: #23527c;
 }
 
 h1,
@@ -264,7 +264,7 @@ header #text-carousel {
     text-align: center;
     color: #fff;
     opacity: 0;
-    background: rgba(240,95,64,.9);
+    background: #23527c;
     -webkit-transition: all .35s;
     -moz-transition: all .35s;
     transition: all .35s;
